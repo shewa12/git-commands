@@ -3,10 +3,10 @@
 # GITHUB Documenation
 <p align="center">
  
-  <button class="button">:blush: Git Tutorial</button>
-  <button>:weary: For Beginners</button>
-  <button>:heart: Clearly Explained</button>
-  <button>:boom: 60+ useful commands</button> 
+  <button class="button">:blush:  Git Tutorial</button>
+  <button>:weary:  For Beginners</button>
+  <button>:heart:  Clearly Explained</button>
+  <button>:boom:  60+ useful commands</button> 
 </p>
 
 ## Description
