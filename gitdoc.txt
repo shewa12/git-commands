@@ -217,6 +217,12 @@ branch@{2020-03-01} vs branch/tag/commit
 64) Push tag to remote
 * git push origin <tag_name>
 
+65) Reset all changes for uncommit files
+* git reset --hard ( it will remove all changes and backed to previous state)
+
+66) Remove all untracted files and folder
+* git clean -fd (-f tag is for forcing & d for clean directory)
+
 
 
 
