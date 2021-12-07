@@ -223,6 +223,9 @@ branch@{2020-03-01} vs branch/tag/commit
 66) Remove all untracted files and folder
 * git clean -fd (-f tag is for forcing & d for clean directory)
 
+67) Amend git commit message
+* git commit --amend "message to amend" (it will amend the last commit message)
+
 
 
 
