@@ -226,7 +226,8 @@ branch@{2020-03-01} vs branch/tag/commit
 67) Amend git commit message
 * git commit --amend "message to amend" (it will amend the last commit message)
 
-
+68) Push tag to remote
+* git push origin (tag name like: v1.1.8)
 
 
 
