@@ -229,6 +229,12 @@ branch@{2020-03-01} vs branch/tag/commit
 68) Push tag to remote
 * git push origin (tag name like: v1.1.8)
 
+69) Gitignore not working ( If ignore not work then may be ignore file exists in git repo. In that case first need to remove from repo then add everything so that gitignore can work. See : https://stackoverflow.com/questions/25436312/gitignore-not-working)
+* git rm -rf --cached .
+* git add .
+
+
+
 
 
 
