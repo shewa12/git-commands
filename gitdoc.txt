@@ -233,7 +233,11 @@ branch@{2020-03-01} vs branch/tag/commit
 * git rm -rf --cached .
 * git add .
 
+70) Remove/Delete local tag
+* git tag -d tagname
 
+71) Remove/Delete remote tag
+* git push --delete origin tagname
 
 
 
